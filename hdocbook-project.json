@@ -1,0 +1,10 @@
+{
+  "docId": "projectmanager-config",
+  "pdfGeneration": {
+    "enable": true,
+    "exclude_paths": []
+  },
+  "validation": {
+    "exclude_links": []
+  }
+}

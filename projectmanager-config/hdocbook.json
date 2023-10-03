@@ -1,0 +1,29 @@
+{
+  "docId": "projectmanager-config",
+  "title": "Project Manager Configuration Guide",
+  "description": "Guide to install and setup Project Manager",
+  "publicSource": "https://github.com/Hornbill-Docs/projectmanager-config.git",
+  "productFamily": "com.hornbill.projectmanager",
+  "version": "0.0.1",
+  "audience": [
+    "public"
+  ],
+  "languages": [
+    "en"
+  ],
+  "navigation": {
+    "items": [
+      {
+        "text": "Introduction",
+        "expand": true,
+        "items": [
+          {
+            "text": "Welcome",
+            "link": "projectmanager-config/index"
+          }
+        ]
+      }
+    ]
+  },
+  "tags": []
+}
