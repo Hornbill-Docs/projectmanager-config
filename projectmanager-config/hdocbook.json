@@ -4,7 +4,7 @@
   "description": "Guide to install and setup Project Manager",
   "publicSource": "https://github.com/Hornbill-Docs/projectmanager-config.git",
   "productFamily": "com.hornbill.projectmanager",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "audience": [
     "public"
   ],
@@ -14,15 +14,69 @@
   "navigation": {
     "items": [
       {
-        "text": "Introduction",
-        "expand": true,
-        "items": [
+        "text": "Overview",
+        "link": "projectmanager-config/index"
+      },
+      {
+        "text": "Project Manager Setup",
+        "items":[
           {
-            "text": "Welcome",
-            "link": "projectmanager-config/index"
+            "text": "Users",
+            "link": "projectmanager-config/setup/users"
+          },
+          {
+            "text": "Roles",
+            "link": "projectmanager-config/setup/roles"
+          },
+          {
+            "text": "Simple Lists",
+            "link": "projectmanager-config/setup/simple-lists"
           }
         ]
-      }
+      },
+      {
+        "text": "Customize",
+        "items": [
+          {
+            "text": "Intellegent Capture",
+            "link": "projectmanager-config/customize/intellegent-capture"
+          },
+          {
+            "text": "Workflows",
+            "link":"projectmanager-config/customize/workflows"
+          },
+          {
+            "text": "Auto Tasks",
+            "link": "projectmanager-config/customize/auto-tasks"
+          }
+        ]
+      },
+      {
+        "text": "Localization",
+        "items": [
+          {
+            "text": "UI Translations",
+            "link": "projectmanager-config/localization/ui-translations"
+          }
+        ]
+      },
+      {
+        "text": "Advanced Tools & Settings",
+        "items": [
+          {
+            "text": "Applications Settings",
+            "link": "projectmanager-config/settings/application-settings"
+          }
+        ]
+      },
+      {
+        "text": "Sub-statuses",
+        "link": "projectmanager-config/sub-statuses"
+      },
+      {
+        "text": "Removed Canceled",
+        "link": "projectmanager-config/remove-canceled"
+      } 
     ]
   },
   "tags": []
