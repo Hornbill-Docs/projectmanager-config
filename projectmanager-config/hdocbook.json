@@ -4,7 +4,7 @@
   "description": "Guide to install and setup Project Manager",
   "publicSource": "https://github.com/Hornbill-Docs/projectmanager-config.git",
   "productFamily": "com.hornbill.projectmanager",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "audience": [
     "public"
   ],
@@ -66,6 +66,35 @@
           {
             "text": "Applications Settings",
             "link": "projectmanager-config/settings/application-settings"
+          }
+        ]
+      },
+      {
+        "text": "Administration",
+        "items": [
+          {
+            "text": "Project Types",
+            "link": "projectmanager-config/administration/project-types"
+          },
+          {
+            "text": "Project Templates",
+            "link": "projectmanager-config/administration/project-templates"
+          },
+          {
+            "text": "Project Risk Matrix",
+            "link": "projectmanager-config/administration/project-risk-matrix"
+          },
+          {
+            "text": "Project RAG Tolerance Templates",
+            "link": "projectmanager-config/administration/project-rag-tolerance-templates"
+          },
+          {
+            "text": "Project RAG Tolerance Matrix",
+            "link": "projectmanager-config/administration/project-rag-tolerance-matrix"
+          },
+          {
+            "text": "Tags",
+            "link": "projectmanager-config/administration/tags"
           }
         ]
       },
