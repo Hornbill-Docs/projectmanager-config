@@ -3,7 +3,8 @@ url: https://wiki.hornbill.com/index.php?title=Project_Templates
 title: Project Templates
 ---
 # Project Templates
-The Project Templates allow you to define re-usable settings that can be used to quickly create new projects. Project Templates can be invoked when raising a new project via Progressive Capture, and or when raising a Project through a Business Process and the Project Manager options available in the Hornbill Integration Bridge (iBridge)
+
+The Project Templates allow you to define re-usable settings that can be used to quickly create new projects. Project Templates can be invoked when raising a new project via Intelligent Capture, and or when raising a Project through a Business Process and the Project Manager options available in the Hornbill Integration Bridge (iBridge)
 
 ## Manage Project Templates
 
@@ -27,7 +28,7 @@ The options that can be pre-defined include the following
 
 * **Template Name**
 
-This will be the name of the template which can be selected when using Project Template form in Progressive Capture
+This will be the name of the template which can be selected when using Project Template form in Intelligent Capture
 
 * **Description**
 
@@ -52,12 +53,14 @@ Configure which of the main project tabs, and smaller tabs will be visible to pr
 * **Milestones**
 
 Add any standard milestones that would be common to a project. If you are following PMP or Prince2 you may want to pre-establish some of the typical milestones used in these structure project methodologies.
+
 * Set due dates relative to the project start date
 * Decide if the Project Manager should receive a notification when the milestone is completed - Off by default, this default setting can be managed under the following app setting: **app.com.hornbill.projectmanager.milestones.notification.notifyProjectManagerOnCompletion**
 
 * **Tasks**
 
 Create common tasks that would be required in this project, define relationships to milestones and or other tasks and set start and end dates relative to the project creation date.
+
 * Owned By: Select a named project stakeholder, or use the select box to have the Owned by be assigned automatically to the user who is assigned the Project Manager Role for the Project where this template is used
 * Assigned To: Select a named project stakeholder, or use the select box to have the Assigned To be assigned automatically to the user who is assigned the Project Manager Role for the Project where this template is used
 * Decide if the Project Manager should receive a notification when the task is completed - Off by default, this default setting can be managed under the following app setting: **app.com.hornbill.projectmanager.projectTasks.notification.notifyProjectManagerOnCompletion**
@@ -91,7 +94,6 @@ Define the permissions the different roles assigned to users in a project raised
 
 * Project Template Roles do not replace project manager security roles, they simply enable more granular controls on both projects raised against a project template, and or individual projects.
   
-  
 :::info
-Once you have defined project templates, you can invoke these by adding the **Project Template** form to your progressive capture flow which is followed when raising and initiating new projects.
+Once you have defined project templates, you can invoke these by adding the **Project Template** form to your Intelligent Capture flow which is followed when raising and initiating new projects.
 :::
