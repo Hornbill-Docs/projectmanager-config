@@ -4,7 +4,7 @@ title: Project Templates
 ---
 # Project Templates
 
-The Project Templates allow you to define re-usable settings that can be used to quickly create new projects. Project Templates can be invoked when raising a new project via Intelligent Capture, and or when raising a Project through a Business Process and the Project Manager options available in the Hornbill Integration Bridge (iBridge)
+The Project Templates allow you to define re-usable settings that can be used to quickly create new projects. Project Templates can be invoked when raising a new project via Intelligent Capture, and or when raising a Project through a workflow and the Project Manager options available in the Hornbill Integration Bridge (iBridge)
 
 ## Manage Project Templates
 

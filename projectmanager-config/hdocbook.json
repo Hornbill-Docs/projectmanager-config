@@ -4,7 +4,7 @@
   "description": "Guide to install and setup Project Manager",
   "publicSource": "https://github.com/Hornbill-Docs/projectmanager-config.git",
   "productFamily": "com.hornbill.projectmanager",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "audience": [
     "public"
   ],
